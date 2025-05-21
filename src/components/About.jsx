@@ -67,9 +67,13 @@ const About = () => {
               </div>
             </div>
 
-            <button className="mt-6 px-6 py-3 bg-gray-600 hover:bg-gray-500 text-white rounded transition-colors">
+            <a
+              href="/dummy.pdf"
+              download="resume.pdf"
+              className="mt-6 inline-block px-6 py-3 bg-gray-600 hover:bg-gray-500 text-white rounded transition-colors"
+            >
               Download Resume
-            </button>
+            </a>
 
             <hr className="border-gray-600 my-6" />
           </div>

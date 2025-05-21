@@ -1,8 +1,8 @@
 // src/assets/images.js
-import natureBoy from './natureBoy.png'
+import natureBoy from './natureBoy.jpg'
 import girlMountain from './girl_mountain.jpeg'
 import girl from './girl.jpg'
-import manBench from './manBench.jpg'
+import manBench from './manBench.webp'
 import girlTrain from './girlTrain.jpg'
 import closeGirl from './closeGirl.jpg'
 import boy from './boy.png'
