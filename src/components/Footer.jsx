@@ -88,7 +88,7 @@ const Footer = () => {
           <p>
             Powered by{" "}
             <a
-              href="https://www.w3schools.com/w3css/default.asp"
+              href="https://jaykolawala.netlify.app/"
               className="text-blue-600 hover:underline"
             >
               Jay Kolawala
