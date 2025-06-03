@@ -5,7 +5,7 @@ import girl from './girl.jpg'
 import manBench from './manBench.webp'
 import girlTrain from './girlTrain.jpg'
 import closeGirl from './closeGirl.jpg'
-import boy from './boy.png'
+import boy from './boy.avif'
 // ... import all other images
 
 export const images = {
